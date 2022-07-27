@@ -7,12 +7,28 @@
 /* font-family: 'Anton', sans-serif; */
 
 body{
-    background-image: linear-gradient(to top, #62011d, #2d000a);
+    background-image: linear-gradient(to top, #480018, #2F0A00);
     color: #ffffff;
+}
+
+header{
+    width: 1000px;
+    background-color: #681701;
+    margin: 0px auto;
+}
+
+header > p{
+    text-indent: 30px;
+}
+
+header > img{
+    display: block;
+    margin: 0px auto;
 }
 
 h1{
     font-family: 'Anton', sans-serif;
+    text-align: center;
 }
 
 h2{
