@@ -15,20 +15,42 @@ header{
     width: 1000px;
     background-color: #681701;
     margin: 0px auto;
-}
-
-header > p{
-    text-indent: 30px;
+    border-radius: 3px;
 }
 
 header > img{
     display: block;
     margin: 0px auto;
+    border-radius: 3px;
+    padding-top: 20px;
+}
+
+header > p{
+    text-indent: 30px;
+    font-size: 16px;
+}
+
+#spaceTitle{
+    margin: 0px auto;
+    width: 10px;
+    height: 10px;
+}
+
+p#paragraphHeader1{
+    padding: 1px 20px 2px 20px;
+}
+
+p#paragraphHeader2{
+    padding: 2px 20px 5px 20px;
 }
 
 h1{
     font-family: 'Anton', sans-serif;
     text-align: center;
+    width: 370px;
+    margin: 0px auto;
+    box-shadow: 1px 1px 10px 0px black;
+    border-radius: 2px;
 }
 
 h2{
