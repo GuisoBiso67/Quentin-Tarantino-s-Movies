@@ -6,19 +6,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
 /* font-family: 'Anton', sans-serif; */
 
+body{
+    background-image: linear-gradient(to top, #62011d, #2d000a);
+    color: #ffffff;
+}
 
 h1{
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 h2{
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 li{
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 p{
-    font-family: 'Anton', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
 }
