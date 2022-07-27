@@ -6,6 +6,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
 /* font-family: 'Anton', sans-serif; */
 
+/* -----------------------------------------GERAL----------------------------------------- */
+
+h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    width: 370px;
+    margin: 0px auto;
+    box-shadow: 0px 0px 3px 0px black;
+    border-radius: 2px;
+}
+
+h2{
+    font-family: 'Anton', sans-serif;
+}
+
+li{
+    font-family: 'Anton', sans-serif;
+}
+
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+/* -----------------------------------------GERAL----------------------------------------- */
+
+/* -----------------------------------------HEADER----------------------------------------- */
+
 body{
     background-image: linear-gradient(to top, #480018, #2F0A00);
     color: #ffffff;
@@ -51,23 +78,4 @@ header > p{
     text-indent: 30px;
 }
 
-h1{
-    font-family: 'Anton', sans-serif;
-    text-align: center;
-    width: 370px;
-    margin: 0px auto;
-    box-shadow: 1px 1px 10px 0px black;
-    border-radius: 2px;
-}
-
-h2{
-    font-family: 'Anton', sans-serif;
-}
-
-li{
-    font-family: 'Anton', sans-serif;
-}
-
-p{
-    font-family: 'Nanum Gothic', sans-serif;
-}
+/* -----------------------------------------HEADER----------------------------------------- */
