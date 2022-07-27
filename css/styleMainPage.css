@@ -19,15 +19,15 @@ header{
 }
 
 header > img{
-    display: block;
-    margin: 0px auto;
-    border-radius: 3px;
-    padding-top: 20px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
 }
 
 header > p{
     text-indent: 30px;
     font-size: 16px;
+    display: inline-block;
 }
 
 #spaceTitle{
@@ -36,12 +36,19 @@ header > p{
     height: 10px;
 }
 
-p#paragraphHeader1{
-    padding: 1px 20px 2px 20px;
+#spaceContentTitle{
+    display: block;
+    width: 5px;
+    margin: 0px auto;
+    height: 110px;
 }
 
-p#paragraphHeader2{
-    padding: 2px 20px 5px 20px;
+#juntarParagrafosParaColocarAoLadoDaImagem{
+    display: inline-block;
+    width: 650px;
+    vertical-align: top; /* estudar melhor essa propriedade */
+    margin: 5px auto;
+    text-indent: 30px;
 }
 
 h1{
