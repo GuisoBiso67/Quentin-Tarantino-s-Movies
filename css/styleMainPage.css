@@ -99,6 +99,22 @@ header > p{
     margin: 0px auto;
 }
 
+.linkMovies{
+    text-decoration: none;
+    color: yellow;
+}
+.linkMovies:hover{
+    text-decoration: none;
+    color: white;
+}
+
+img.ajusteDeTamanho{
+    width: 300px;
+    height: 445px;
+}
+
+
+
 #videosDivision{
     background-color: #5f1919;
     width: 950px;
