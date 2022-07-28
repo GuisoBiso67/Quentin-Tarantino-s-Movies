@@ -102,10 +102,20 @@ header > p{
     box-shadow: 0px 0px 10px 3px black;
 }
 
+#listaMovies{
+    margin: 20px auto;
+    padding: 0px;
+}
+
 .linkMovies{
     text-decoration: none;
     color: yellow;
+    width: 300px;
+    height: 469px;
+    display: inline-block;
+    margin: 20px 70px;
 }
+
 .linkMovies:hover{
     text-decoration: none;
     color: white;
