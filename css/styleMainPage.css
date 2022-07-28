@@ -48,6 +48,7 @@ header{
     background-color: #681701;
     margin: 0px auto;
     border-radius: 3px;
+    box-shadow: 0px 0px 10px 3px black;
 }
 
 header > img{
@@ -97,6 +98,8 @@ header > p{
     background-color: #3b0d00;
     width: 900px;
     margin: 0px auto;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 3px black;
 }
 
 .linkMovies{
@@ -119,6 +122,8 @@ img.ajusteDeTamanho{
     background-color: #5f1919;
     width: 950px;
     margin: 0px auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px 3px black;
 }
 
 iframe{
