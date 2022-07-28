@@ -82,9 +82,15 @@ header > p{
 
 /* -----------------------------------------MAIN----------------------------------------- */
 
-main{
+#moviesDivision{
     background-color: #3b0d00;
     width: 900px;
+    margin: 0px auto;
+}
+
+#videosDivision{
+    background-color: #5f1919;
+    width: 1000px;
     margin: 0px auto;
 }
 
