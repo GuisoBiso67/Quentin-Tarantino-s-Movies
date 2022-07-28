@@ -97,4 +97,18 @@ footer{
     text-align: center;
 }
 
+a#linkCriador{
+    color: white;
+    text-decoration: none;
+}
+
+a#linkCriador:hover{
+    color: yellow;
+    text-decoration: overline;
+}
+
+a#linkCriador:active{
+    color: aqua;
+}
+
 /* -----------------------------------------FOOTER----------------------------------------- */
