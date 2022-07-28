@@ -8,6 +8,7 @@
 
 /* -----------------------------------------GERAL----------------------------------------- */
 
+/* TITULO */
 h1{
     font-family: 'Anton', sans-serif;
     text-align: center;
@@ -17,14 +18,18 @@ h1{
     border-radius: 2px;
 }
 
+/* VIDEOS */
 h2{
     font-family: 'Anton', sans-serif;
+    text-indent: 20px;
 }
 
+/* FILMES */
 li{
     font-family: 'Anton', sans-serif;
 }
 
+/* TODOS OS PARÁGRAFOS */
 p{
     font-family: 'Nanum Gothic', sans-serif;
 }
@@ -90,8 +95,12 @@ header > p{
 
 #videosDivision{
     background-color: #5f1919;
-    width: 1000px;
+    width: 950px;
     margin: 0px auto;
+}
+
+iframe{
+    margin: 5px 8px;
 }
 
 /* -----------------------------------------MAIN----------------------------------------- */
