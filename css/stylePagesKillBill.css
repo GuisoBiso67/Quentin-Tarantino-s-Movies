@@ -114,7 +114,22 @@ main{
 /* -----------------------------------------FOOTER----------------------------------------- */
 
 footer{
+    margin: 0px auto;
+    text-align: right;
+}
 
+a#linkBackToMainPage {
+    text-decoration: none;
+    color: yellow;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #681701;
+}
+
+a#linkBackToMainPage:hover{
+    color: yellow;
+    background-color: #111111;
+    box-shadow: 0px 0px 3px 0px black;
 }
 
 /* -----------------------------------------FOOTER----------------------------------------- */
