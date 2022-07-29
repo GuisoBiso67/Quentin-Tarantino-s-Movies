@@ -1,4 +1,4 @@
-# Filmes-de-Quentin-Tarantino
+# Quentin-Tarantino's-Movies
 Website with my opinions about Quentin Tarantino's films;
 
 OBS: 
