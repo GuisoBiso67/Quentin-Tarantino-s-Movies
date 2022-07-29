@@ -43,7 +43,59 @@ img{
 
 /* -----------------------------------------HEADER----------------------------------------- */
 
+header{
+    width: 1000px;
+    background-color: #3b0d00;;
+    margin: 0px auto;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 3px black;
+}
 
+header > h2{
+    display: inline-block;
+}
+
+header > img{
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+header > p{
+    text-indent: 30px;
+    font-size: 16px;
+    display: inline-block;
+}
+
+#spaceTitle{
+    margin: 0px auto;
+    width: 10px;
+    height: 10px;
+}
+
+#juntarSinopseParaColocarAoLadoDaImagem{
+    display: inline-block;
+    width: 650px;
+    vertical-align: top;
+    margin: 5px auto;
+    text-indent: 30px;
+}
+
+#spaceContentTitle{
+    display: block;
+    width: 5px;
+    margin: 0px auto;
+    height: 110px;
+}
+
+h2#synopsis{
+    text-indent: 0px;
+    width: 130px;
+    text-align: center;
+    box-shadow: 0px 0px 3px 0px black;
+    border-radius: 2px;
+    font-size: 25px;
+}
 
 /* -----------------------------------------HEADER----------------------------------------- */
 
