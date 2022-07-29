@@ -1,8 +1,8 @@
 # Filmes-de-Quentin-Tarantino
-Site com minhas opiniões sobre os filmes de Quentin Tarantino;
+Website with my opinions about Quentin Tarantino's films;
 
 OBS: 
 
-TODAS as imagens usadas contêm direitos autorais;
+ALL images used are copyrighted;
 
-Informações dos textos: 28/07/2022
+Text information: 07/28/2022;
