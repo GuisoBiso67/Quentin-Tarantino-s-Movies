@@ -125,9 +125,18 @@ header > p{
     color: white;
 }
 
+main img{
+    border: 2px solid rgba(0, 0, 0, 0);
+}
+
+main img:hover{
+    border: 2px solid lawngreen;
+}
+
 img.ajusteDeTamanho{
     width: 300px;
     height: 445px;
+    border-radius: 5px;
 }
 
 #videosDivision{
