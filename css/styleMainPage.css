@@ -43,7 +43,7 @@ p{
 /* -----------------------------------------HEADER----------------------------------------- */
 
 body{
-    background-image: linear-gradient(to top, #480018, #2F0A00);
+    background-image: url('../posters_and_images/fundo001.png');
     color: #ffffff;
 }
 
@@ -139,12 +139,17 @@ img.ajusteDeTamanho{
     border-radius: 5px;
 }
 
-#videosDivision{
+aside{
     background-color: #5f1919;
     width: 950px;
     margin: 0px auto;
     border-radius: 5px;
     box-shadow: 2px 2px 10px 3px black;
+}
+
+#videosDivision{
+    width: 896px;
+    margin: 0px auto;
 }
 
 iframe{
